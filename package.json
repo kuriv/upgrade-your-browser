@@ -1,0 +1,26 @@
+{
+  "name": "@kuriv/upgrade-your-browser",
+  "version": "1.0.1",
+  "description": "Please upgrade your browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriv/upgrade-your-browser.git"
+  },
+  "keywords": [
+    "upgrade-your-browser",
+    "internet-explorer",
+    "internet-explorers",
+    "internet-explorer-6",
+    "internet-explorer-8"
+  ],
+  "author": "Kuriv Vesti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuriv/upgrade-your-browser/issues"
+  },
+  "homepage": "https://github.com/kuriv/upgrade-your-browser#readme"
+}
