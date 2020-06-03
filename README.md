@@ -36,7 +36,7 @@ npm install @kuriv/upgrade-your-browser
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/upgrade-your-browser    "build"
-[version-image]: https://img.shields.io/badge/version-v1.0.1-blue   "version"
+[version-image]: https://img.shields.io/badge/version-v1.0.2-blue   "version"
 [version-url]: https://github.com/kuriv/upgrade-your-browser  "version"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://opensource.org/licenses/MIT  "license"
