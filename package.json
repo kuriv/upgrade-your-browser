@@ -1,6 +1,6 @@
 {
   "name": "@kuriv/upgrade-your-browser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Please upgrade your browser.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/kuriv/upgrade-your-browser#readme",
   "dependencies": {
-    "@kuriv/normalize": "^1.0.4"
+    "@kuriv/normalize": "^1.0.5"
   }
 }

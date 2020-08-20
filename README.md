@@ -1,7 +1,7 @@
 # upgrade-your-browser
 
 <a href="https://github.com/kuriv/upgrade-your-browser">
-    <img src="upgrade-your-browser.png" width="80" height="80" align="right">
+    <img src="upgrade-your-browser.svg" width="80" height="80" align="right">
 </a>
 
 > 请升级您的浏览器。
@@ -36,7 +36,7 @@ npm install @kuriv/upgrade-your-browser
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/upgrade-your-browser    "build"
-[version-image]: https://img.shields.io/badge/version-v1.0.3-blue   "version"
+[version-image]: https://img.shields.io/badge/version-v1.0.4-blue   "version"
 [version-url]: https://github.com/kuriv/upgrade-your-browser  "version"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://opensource.org/licenses/MIT  "license"
